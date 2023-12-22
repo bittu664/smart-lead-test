@@ -1,5 +1,9 @@
 # smart-lead-test
 
+### Here is the Architecture diagram for this test
+
+![Screenshot](./screenshot/diagram.png)
+
 **Step-1:**
 
 Firstly i cloned your nodejs repo and created my custom Dockerfile which is a multi-stage dockerfile.
