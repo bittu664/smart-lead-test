@@ -29,7 +29,7 @@ After that i created terraform scripts for RDS, ECS-ECR, WAF, S3, and Cloudfront
 
 **IMPORTANT-NOTE**
 
-Here i used AWS secret manager to store my reds creds for security purpose becuase i dont want to expose the database password and all that directly into terraform RDS code, so you can check that intresting part. 
+Here i used AWS secret manager to store my RDS creds for security purpose becuase i dont want to expose the database password and all that directly into terraform RDS code, so you can check that intresting part. 
 
 ```
 terraform init
